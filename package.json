@@ -20,6 +20,20 @@
     "react-dom": "18.2.0",
     "typescript": "4.9.4"
   },
+  "overrides": {
+    "@walletconnect/core": "2.0.0-beta.100",
+    "@walletconnect/sign-client": "2.0.0-beta.100",
+    "@walletconnect/types": "2.0.0-beta.100",
+    "@walletconnect/utils": "2.0.0-beta.100",
+    "@walletconnect/jsonrpc-ws-connection": "1.0.5"
+  },
+  "resolutions": {
+    "@walletconnect/core": "2.0.0-beta.100",
+    "@walletconnect/sign-client": "2.0.0-beta.100",
+    "@walletconnect/types": "2.0.0-beta.100",
+    "@walletconnect/utils": "2.0.0-beta.100",
+    "@walletconnect/jsonrpc-ws-connection": "1.0.5"
+  },
   "pnpm": {
     "overrides": {
       "@walletconnect/core": "2.0.0-beta.100",
